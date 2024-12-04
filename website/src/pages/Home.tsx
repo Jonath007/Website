@@ -16,7 +16,7 @@ export default function Home() {
       <img
           src={image}// Use the imported image
           alt="University Campus"
-          className="w-full h-full object-cover"
+          className="w-full h-full object-cover object-top"
         />
         <div className="absolute inset-0 bg-black bg-opacity-10 flex items-center justify-center">
           <div className="text-center text-white">

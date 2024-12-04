@@ -1,6 +1,6 @@
 import React from 'react';
 import { BookOpen, Users,  School} from 'lucide-react';
-import image from "./college.jpg";
+import image from "./main.jpg";
 
 
 export default function Home() {

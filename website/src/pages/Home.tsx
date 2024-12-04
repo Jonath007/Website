@@ -1,6 +1,6 @@
 import React from 'react';
 import { BookOpen, Users,  School} from 'lucide-react';
-import image from "./main.jpg";
+import image from "./college.jpg";
 
 
 export default function Home() {
@@ -14,10 +14,10 @@ export default function Home() {
     <div className="min-h-screen">
       <div className="relative h-[600px]">
       <img
-          src={image}// Use the imported image
-          alt="University Campus"
-          className="w-full h-full object-cover object-top"
-        />
+      src={image} // Use the imported image
+      alt="University Campus"
+      className="w-full h-full object-contain"
+      />
         
       </div>
 

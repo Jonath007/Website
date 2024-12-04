@@ -16,7 +16,7 @@ export default function Home() {
       <img
       src={image} // Use the imported image
       alt="University Campus"
-      className="w-full h-full object-contain"
+      className="w-full h-full object-cover"
       />
         
       </div>

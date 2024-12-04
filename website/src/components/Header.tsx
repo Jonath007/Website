@@ -6,7 +6,7 @@ export default function Header() {
     <header className="bg-white shadow-md">
       <div className="container mx-auto px-4 py-6 flex items-center justify-between">
         {/* College Name */}
-        <h1 className="text-4xl font-bold text-gray-800">Montessori College of Education</h1>
+        <h1 className="text-3xl font-bold text-gray-800">Montessori College of Education</h1>
         
         {/* Navigation Tabs */}
         <nav className="flex space-x-8 mr-20">

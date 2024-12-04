@@ -18,12 +18,7 @@ export default function Home() {
           alt="University Campus"
           className="w-full h-full object-cover object-top"
         />
-        <div className="absolute inset-0 bg-black bg-opacity-10 flex items-center justify-center">
-          <div className="text-center text-white">
-            <h1 className="text-4xl font-bold mb-4">Welcome to Montessori B. Ed College</h1>
-            
-          </div>
-        </div>
+        
       </div>
 
       <section className="py-16 bg-white">
